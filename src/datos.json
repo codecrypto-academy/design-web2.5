@@ -1,0 +1,112 @@
+{
+    "cabecera": {
+        "nombre": "ByteBloom",
+        "enlaces": [
+            {
+                "texto": "Blog",
+                "URL": "https://blog.com"
+            },
+            {
+                "texto": "YouTube",
+                "URL": "https://youtube.com"
+            }
+        ]
+    },
+    "pie": [
+        {
+            "titulo": "Contact us!",
+            "enlaces": [
+                {
+                    "titulo": "hello@bytebloom.com",
+                    "URL": "email@email.com"
+                },
+                {
+                    "titulo": "123 Smith Street, Melbourne, VIC 3000 Australia",
+                    "URL": "https://maps.google.com"
+                }
+            ]
+        },
+        {
+            "titulo": "Social",
+            "enlaces": [
+                {
+                    "titulo": "YouTube",
+                    "URL": "https://youtube.com"
+                },
+                {
+                    "titulo": "Twitter",
+                    "URL": "https://twitter.com"
+                },
+                {
+                    "titulo": "Facebook",
+                    "URL": "https://facebook.com"
+                }
+            ]
+        }
+    ],
+    "precios": [
+        {
+            "titulo": "Free",
+            "precio": "$0",
+            "por": "month",
+            "textoBotón": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2 GB ",
+                "Email ",
+                "Help center crypto"
+            ]
+        },
+        {
+            "titulo": "Pro",
+            "precio": "$0",
+            "por": "month",
+            "textoBotón": "Sign up for free",
+            "features": [
+                "100 users included",
+                "20 GB ",
+                "Email ",
+                "Help center crypto"
+            ]
+        },
+        {
+            "titulo": "Enterprise",
+            "precio": "$0",
+            "por": "month",
+            "textoBotón": "Sign up for free",
+            "features": [
+                "1000 users included",
+                "200 GB ",
+                "Email ",
+                "Help center crypto"
+            ]
+        }
+    ],
+    "carrusel": [
+        {
+            "texto": "Live's a road, live a little.",
+            "url": "/road.jpg",
+            "alt": "Texto alternativo imagen"
+        },
+        {
+            "texto": "Take it easy, you'll be fine.",
+            "url": "/lake.jpg",
+            "alt": "Texto alternativo imagen"
+        },
+        {
+            "texto": "You're just a human, relax.",
+            "url": "/boat.jpg",
+            "alt": "Texto alternativo imagen"
+        },
+        {
+            "texto": "Always aim high, you'll go far.",
+            "url": "/galaxy.jpg",
+            "alt": "Texto alternativo imagen"
+        },
+        {
+            "texto": "The sky is the limit.",
+            "url": "/sky.jpg",
+            "alt": "Texto alternativo imagen"
+        }
+    ]
+}
